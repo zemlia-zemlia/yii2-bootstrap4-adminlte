@@ -1,0 +1,42 @@
+{
+  "name": "arunsahlam/yii2-bootstrap4-adminlte",
+  "description": "yii2-bootstrap4-adminlte is a package for yii framework 2 that consists a very popular backend template AdminLTE (based on bootstrap 3).",
+  "keywords": [
+    "yii2",
+    "back-end",
+    "admin",
+    "template",
+    "theme",
+    "backend",
+    "AdminLTE",
+    "bootstrap 4"
+  ],
+  "homepage": "https://github.com/arunsahlam",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arun Sahlam",
+      "email": "arunsahlam@gmail.com",
+      "homepage": "https://github.com/arunsahlam",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/arunsahlam/yii2-bootstrap4-adminlte/issues",
+    "source": "https://github.com/arunsahlam/yii2-bootstrap4-adminlte"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": ">=2.0.5",
+    "yiisoft/yii2-bootstrap4": "*",
+    "rmrevin/yii2-fontawesome": "2.12.*",
+    "almasaeed2010/adminlte": "~3.0",
+    "bower-asset/datatables": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "arunsahlam\\bs4adminlte\\": ""
+    }
+  }
+}

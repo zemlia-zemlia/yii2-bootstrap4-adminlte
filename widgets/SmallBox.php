@@ -1,11 +1,7 @@
 <?php
-/**
- * @copyright Copyright (c) 2015 arunsahlam
- * @license https://github.com/arunsahlam/yii2-bootstrap4-adminlte/blob/master/LICENSE
- * @link https://github.com/arunsahlam
- */
 
-namespace arunsahlam\bs4adminlte\widgets;
+
+namespace zemlia\bs4adminlte\widgets;
 
 use rmrevin\yii\fontawesome\component\Icon;
 use yii\bootstrap\Widget;

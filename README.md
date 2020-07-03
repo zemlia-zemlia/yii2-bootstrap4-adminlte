@@ -11,14 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist arunsahlam/yii2-bootstrap4-adminlte "~1.0"
+composer require --prefer-dist zemlia-zemlia/yii2-bootstrap4-adminlte "~1.0"
 ```
 
 or add the following to the `require` section of your `composer.json`
 
 ```json
-"arunsahlam/yii2-bootstrap4-adminlte": "~1.0"
+"zemlia-zemlia/yii2-bootstrap4-adminlte": "~1.0"
 ```
-## Demonstration
 
-You may see a demo site [here](https://github.com/arunsahlam/).
+

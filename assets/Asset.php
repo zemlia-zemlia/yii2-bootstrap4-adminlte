@@ -5,7 +5,7 @@
  * @link https://github.com/arunsahlam
  */
 
-namespace arunsahlam\bs4adminlte\assets;
+namespace zemlia\bs4adminlte\assets;
 
 class Asset extends \yii\web\AssetBundle
 {

@@ -6,7 +6,7 @@
 
 use yii\helpers\Html;
 
-arunsahlam\bs4adminlte\assets\Asset::register($this);
+zemlia\bs4adminlte\assets\Asset::register($this);
 
 ?>
 <?php $this->beginPage() ?>
@@ -246,7 +246,7 @@ desired effect
 
             <!-- Sidebar Menu -->
             <?=
-            \arunsahlam\bs4adminlte\widgets\Menu::widget(
+            \zemlia\bs4adminlte\widgets\Menu::widget(
                 [
                     "items" => [
                         ["label" => "Home", "url" => "/", "icon" => "home"],
@@ -280,7 +280,7 @@ desired effect
                                     "icon" => "table",
                                     "badge" => "123",
                                     "badgeOptions" => [
-                                        "class" => \arunsahlam\bs4adminlte\components\AdminLTE::BG_BLUE,
+                                        "class" => \zemlia\bs4adminlte\components\AdminLTE::BG_BLUE,
                                     ],
                                 ],
                             ],
@@ -356,7 +356,7 @@ desired effect
             Anything you want
         </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; <a href="http://sahlam.com">arunsahlam</a> <?= date("Y") ?>
+        <strong>Copyright &copy; <a href="http://sahlam.com">zemlia-zemlia</a> <?= date("Y") ?>
     </footer>
 
     <!-- Control Sidebar -->

@@ -1,11 +1,11 @@
 <?php
 /**
  * @copyright Copyright (c) 2015 arunsahlam
- * @license https://github.com/arunsahlam/yii2-bootstrap4-adminlte/blob/master/LICENSE
- * @link https://github.com/arunsahlam
+ * @license https://github.com/zemlia-zemlia/yii2-bootstrap4-adminlte/blob/master/LICENSE
+ * @link https://github.com/zemlia-zemlia
  */
 
-namespace arunsahlam\bs4adminlte\components;
+namespace zemlia\bs4adminlte\components;
 
 class AdminLTE
 {

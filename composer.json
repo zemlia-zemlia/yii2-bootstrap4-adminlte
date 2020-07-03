@@ -1,5 +1,5 @@
 {
-  "name": "arunsahlam/yii2-bootstrap4-adminlte",
+  "name": "zemlia-zemlia/yii2-bootstrap4-adminlte",
   "description": "yii2-bootstrap4-adminlte is a package for yii framework 2 that consists a very popular backend template AdminLTE (based on bootstrap 3).",
   "keywords": [
     "yii2",
@@ -11,20 +11,20 @@
     "AdminLTE",
     "bootstrap 4"
   ],
-  "homepage": "https://github.com/arunsahlam",
+  "homepage": "https://github.com/zemlia-zemlia",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "Arun Sahlam",
-      "email": "arunsahlam@gmail.com",
-      "homepage": "https://github.com/arunsahlam",
+      "name": "zemlia-zemlia",
+      "email": "zemlia-zemlia@mail.ru",
+      "homepage": "https://github.com/zemlia-zemlia",
       "role": "Creator"
     }
   ],
   "support": {
-    "issues": "https://github.com/arunsahlam/yii2-bootstrap4-adminlte/issues",
-    "source": "https://github.com/arunsahlam/yii2-bootstrap4-adminlte"
+    "issues": "https://github.com/zemlia-zemlia/yii2-bootstrap4-adminlte/issues",
+    "source": "https://github.com/zemlia-zemlia/yii2-bootstrap4-adminlte"
   },
   "require": {
     "php": ">=5.4.0",
@@ -36,7 +36,7 @@
   },
   "autoload": {
     "psr-4": {
-      "arunsahlam\\bs4adminlte\\": ""
+      "zemlia\\bs4adminlte\\": ""
     }
   }
 }
